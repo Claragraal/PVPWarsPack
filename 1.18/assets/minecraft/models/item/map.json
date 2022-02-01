@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/map"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1001}, "model": "guis/battlepassgui/check_mark"},
+        {"predicate": {"custom_model_data":1002}, "model": "guis/battlepassgui/red_x"},
+        {"predicate": {"custom_model_data":1003}, "model": "guis/battlepassgui/locked"},
+        {"predicate": {"custom_model_data":1004}, "model": "guis/battlepassgui/opened_reward"},
+        {"predicate": {"custom_model_data":1005}, "model": "guis/battlepassgui/closed_reward"},
+        {"predicate": {"custom_model_data":1006}, "model": "guis/battlepassgui/scroll"},
+        {"predicate": {"custom_model_data":1007}, "model": "guis/battlepassgui/book"},
+        {"predicate": {"custom_model_data":1008}, "model": "guis/battlepassgui/question_mark"},
+        {"predicate": {"custom_model_data":1009}, "model": "guis/battlepassgui/clock"},
+        {"predicate": {"custom_model_data":1010}, "model": "guis/invisibleitem"}
+        ]
+}

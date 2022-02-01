@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "tools/xmas_cosmetics/xmas_bow_pulling_0"
+    }
+}

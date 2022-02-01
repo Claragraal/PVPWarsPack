@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },"overrides":[
+    {"predicate":{"custom_model_data":1},"model":"item/tools/legendary_sword"},
+    {"predicate":{"custom_model_data":2},"model":"item/tools/mythical_sword"},
+    {"predicate":{"custom_model_data":3},"model":"item/tools/xmas_tree_sword"},
+    {"predicate":{"custom_model_data":4},"model":"item/tools/cane_sword"}
+  ]
+}

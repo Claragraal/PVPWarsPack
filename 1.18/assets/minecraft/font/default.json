@@ -1,0 +1,444 @@
+{
+   "providers":[
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ascii.png",
+         "ascent":7,
+         "chars":[
+            "ÀÁÂÈÊËÍÓÔÕÚßãõğİ",
+            "ıŒœŞşŴŵžȇ\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            " !\"#$%&'()*+,-./",
+            "0123456789:;<=>?",
+            "@ABCDEFGHIJKLMNO",
+            "PQRSTUVWXYZ[\\]^_",
+            "`abcdefghijklmno",
+            "pqrstuvwxyz{|}~\u0000",
+            "ÇüéâäàåçêëèïîìÄÅ",
+            "ÉæÆôöòûùÿÖÜø£Ø×ƒ",
+            "áíóúñÑªº¿®¬½¼¡«»",
+            "░▒▓│┤╡╢╖╕╣║╗╝╜╛┐",
+            "└┴┬├─┼╞╟╚╔╩╦╠═╬╧",
+            "╨╤╥╙╘╒╓╫╪┘┌█▄▌▐▀",
+            "αβΓπΣσμτΦΘΩδ∞∅∈∩",
+            "≡±≥≤⌠⌡÷≈°∙·√ⁿ²■\u0000"
+         ]
+      },
+      {
+         "file": "offsets:space_nosplit.png",
+         "ascent": -32768,
+         "type": "bitmap",
+         "chars": [
+            "口"
+         ],
+         "height": -10
+      },
+      {
+         "file": "offsets:space_split.png",
+         "ascent": -32768,
+         "type": "bitmap",
+         "chars": [
+            "回"
+         ],
+         "height": -179
+      },
+      {
+         "file": "offsets:space_split.png",
+         "ascent": -32768,
+         "type": "bitmap",
+         "chars": [
+            "品"
+         ],
+         "height": -65
+      },
+      {
+         "file": "offsets:space_split.png",
+         "ascent": -32768,
+         "type": "bitmap",
+         "chars": [
+            "唱"
+         ],
+         "height": -7
+      },
+      {
+         "type":"bitmap",
+         "file":"offsets:space_split.png",
+         "ascent":-32768,
+         "chars":[
+            "ꈈ"
+         ],
+         "height":-9
+      },
+
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/helper.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "识"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/mod.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "课"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/srmod.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "讨"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/jradmin.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "冰"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/admin.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "论"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/dev.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "退"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/manager.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "吗"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/owner.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "哈"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/member.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "吧"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/explorer.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "呢"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/pilot.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "叫"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/astronaut.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "告"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/voyager.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "吃"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/martian.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "吹"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/youtube.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "边"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/rarities/common.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "讲"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/rarities/uncommon.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "说"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/rarities/rare.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "谈"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/rarities/epic.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "让"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/rarities/legendary.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "试"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/rarities/unique.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "词"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/rarities/admin.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "诗"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/ranks/staff.png",
+         "ascent":7,
+         "chars":[
+            "认"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/tags/amsterdam.png",
+         "ascent":7,
+         "chars":[
+            "误"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/tags/moscow.png",
+         "ascent":7,
+         "chars":[
+            "达"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/tags/sydney.png",
+         "ascent":7,
+         "chars":[
+            "进"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/tags/heart.png",
+         "ascent":7,
+         "chars":[
+            "还"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/tags/simp.png",
+         "ascent":7,
+         "chars":[
+            "远"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/tags/new_york.png",
+         "ascent":7,
+         "chars":[
+            "迷"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/tags/brazil.png",
+         "ascent":7,
+         "chars":[
+            "迫"
+         ]
+      },
+      {
+         "file":"minecraft:font/exit.png",
+         "ascent":128,
+         "type":"bitmap",
+         "chars":[
+            "迟"
+         ],
+         "height": 256
+      },
+      {
+         "file":"minecraft:font/logo-tablist.png",
+         "ascent":128,
+         "type":"bitmap",
+         "chars":[
+            "连"
+         ],
+         "height": 256
+      },
+      {
+         "file":"minecraft:font/logo-scoreboard.png",
+         "ascent":128,
+         "type":"bitmap",
+         "chars":[
+            "迅"
+         ],
+         "height": 256
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/logo-tablist2.png",
+         "ascent":55,
+         "height":55,
+         "chars":[
+            "这"
+         ]
+      },
+      {
+         "file":"minecraft:gui/selector.png",
+         "ascent":14,
+         "type":"bitmap",
+         "chars":[
+            "返"
+         ],
+         "height": 256
+      },
+      {
+           "type": "bitmap",
+           "file": "minecraft:gui/gemshop.png",
+           "ascent": 130,
+           "height": 256,
+           "chars": [
+               "运"
+           ]
+      },
+      {
+           "type": "bitmap",
+           "file": "minecraft:gui/crates.png",
+           "ascent": 130,
+           "height": 256,
+           "chars": [
+               "逃"
+           ]
+      },
+      {
+           "type": "bitmap",
+           "file": "minecraft:gui/earthshop.png",
+           "ascent": 130,
+           "height": 256,
+           "chars": [
+               "送"
+           ]
+      },
+      {
+           "type": "bitmap",
+           "file": "minecraft:gui/earthshop_xmas.png",
+           "ascent": 130,
+           "height": 256,
+           "chars": [
+               "选"
+           ]
+      },
+      {
+           "type": "bitmap",
+           "file": "minecraft:gui/countries.png",
+           "ascent": 130,
+           "height": 256,
+           "chars": [
+               "通"
+           ]
+      },
+      {
+           "type": "bitmap",
+           "file": "minecraft:gui/miscshop.png",
+           "ascent": 130,
+           "height": 256,
+           "chars": [
+               "遥"
+           ]
+      },
+      {"type": "bitmap", "file": "minecraft:guis/battlepassgui/battlepass_rewards.png","ascent": 35,"height": 111,"chars": ["ゐ"]},
+        {"type": "bitmap", "file": "minecraft:guis/battlepassgui/battlepass_main.png","ascent": 35,"height": 99,"chars": ["ㇰ"]},
+        {"type": "bitmap", "file": "minecraft:guis/battlepassgui/battlepass_quests.png","ascent": 35,"height": 93,"chars": ["ㇱ"]},
+        {"type": "bitmap", "file": "minecraft:guis/battlepassgui/battlepass_week.png","ascent": 35,"height": 111,"chars": ["ㇲ"]},
+        {"type": "bitmap", "file": "minecraft:guis/pixel.png","ascent": -2000,"height": -3,"chars": ["七"]},
+      {
+         "type":"legacy_unicode",
+         "sizes":"minecraft:font/glyph_sizes.bin",
+         "template":"minecraft:font/unicode_page_%s.png"
+      }
+   ]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/fishing_rod",
+    "textures": {
+        "layer0": "tools/legendary_fishing-rod/legendary_rod1"
+    }
+}

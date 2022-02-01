@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	  "layer0": "item/leather_helmet",
+	  "layer1": "item/leather_helmet_overlay"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "custom/armor/legendary_helmet" },
+		{ "predicate": { "custom_model_data": 2}, "model": "custom/armor/mythical_helmet" },
+		{ "predicate": { "custom_model_data": 3}, "model": "custom/armor/xmas_helmet" },
+		{ "predicate": { "custom_model_data": 4}, "model": "custom/armor/solar_helmet" }
+	]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/fishing_rod",
+    "textures": {
+        "layer0": "tools/voting_fishing-rod/voting_rod1"
+    }
+}
